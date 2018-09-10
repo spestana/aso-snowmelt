@@ -14,7 +14,10 @@ Slack channel: [#snowmelt](https://geohackweek2018.slack.com/messages/CCQT0KTHC)
 ---
 
 ### The Problem:
-#### Broader Impacts: 
+
+---
+
+### Broader Impacts: 
 * Tuolumne River Basin is Cali water supply 
 * Expecting this climate change “2015 year” temperatures to continue 
 * Impacts of climate change on this water supply for future years
