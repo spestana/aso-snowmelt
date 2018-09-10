@@ -14,6 +14,9 @@ Slack channel: [#snowmelt](https://geohackweek2018.slack.com/messages/CCQT0KTHC)
 ---
 
 ### The Problem:
+* ASO lidar can provide snapshots of snowdepth across a watershed
+* Previous geohackweek projects have developed tools for the spatial analysis of this data
+* We want to expand these tools to investigate temporal changes in snow depth (melt) as a function of topgraphic variables
 
 ---
 
@@ -54,6 +57,7 @@ https://drive.google.com/drive/folders/1uhxMHkf9YgU2qVDntqTGSbzZlJY0v94X
 ---
 
 ### Proposed Methods/Tools:
+* Raster/array math
 
 ---
 
